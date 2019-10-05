@@ -1,0 +1,3 @@
+rootProject.name = 'Inteligencia_Security'
+
+include ':app'

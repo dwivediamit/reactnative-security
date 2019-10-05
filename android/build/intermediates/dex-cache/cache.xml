@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amit Dwivedi\.android\build-cache\c733fc28b8b2760c20aa08caef0258617c44e4b4\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\React_native_projects\Inteligencia_Security\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_83a029d670b06e6784be49bb65e7aec884fa73f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amit Dwivedi\.android\build-cache\cf72c55005d9d047e7624cf7d3eda4eca6d05e6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\React_native_projects\Inteligencia_Security\android\app\build\intermediates\pre-dexed\debug\classes_72186223ca8b6e487ac60bafac777325873451a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amit Dwivedi\.android\build-cache\4e5da7fd03d76c43896224c22c4c601bcacbe95d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\React_native_projects\Inteligencia_Security\android\app\build\intermediates\pre-dexed\debug\classes_9ca88cbe5deb131cfafe5035b19fbb94b633c504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amit Dwivedi\.android\build-cache\42f48a7fcf6ff03b9f92a0e1f63be114cd4f5c91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\React_native_projects\Inteligencia_Security\android\app\build\intermediates\pre-dexed\debug\classes_6273906c3b2d307c0ebf46a9f7c444283375b9ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amit Dwivedi\.android\build-cache\f2aff7ca9981d866eedc80b51ff760d95b0c64c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\React_native_projects\Inteligencia_Security\android\app\build\intermediates\pre-dexed\debug\classes_51e66ccf0b36e84e4d48f4c189b145385d6ce1f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amit Dwivedi\.android\build-cache\c733fc28b8b2760c20aa08caef0258617c44e4b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="E:\React_native_projects\Inteligencia_Security\android\app\build\intermediates\pre-dexed\debug\classes_c90eca12c10d3c9e904d9819bccfbc1d1908291b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amit Dwivedi\.android\build-cache\6f5651b790c26fbd17733f70103ffbc650ca8bc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\React_native_projects\Inteligencia_Security\android\app\build\intermediates\pre-dexed\debug\classes_c3d788fc12a08868e2232f30015e59fd308caa00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amit Dwivedi\.android\build-cache\22ff7372b18b6542ac7c3adf4221652de683cfe2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\React_native_projects\Inteligencia_Security\android\app\build\intermediates\pre-dexed\debug\classes_de4411cb1bb1b5d813299906fe605bf7278384e9.jar" />
+    </item>
+
+</items>
